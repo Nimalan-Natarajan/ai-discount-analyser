@@ -1,0 +1,52 @@
+customer_id,date,shipment_type,commodity_type,shipper_country,shipper_station,consignee_country,consignee_station,discount_offered,status
+CUST001,2024-01-15,AIR,general,USA,LAX,Germany,HAM,15.5,accepted
+CUST001,2024-01-20,OFR FCL,electronics,USA,LAX,China,SHA,12.0,rejected
+CUST002,2024-01-25,OFR LCL,textiles,China,SHA,USA,NYC,18.5,accepted
+CUST003,2024-02-01,AIR,dangerous goods,Germany,HAM,Japan,NRT,25.0,accepted
+CUST001,2024-02-05,AIR,general,USA,LAX,Germany,HAM,14.0,accepted
+CUST004,2024-02-10,OFR FCL,automotive,Japan,NRT,USA,LAX,20.5,rejected
+CUST002,2024-02-15,OFR LCL,perishables,China,SHA,Germany,HAM,22.0,accepted
+CUST005,2024-02-20,AIR,temperature-sensitive,USA,NYC,Japan,NRT,28.0,accepted
+CUST003,2024-02-25,OFR FCL,machinery,Germany,HAM,China,SHA,16.5,rejected
+CUST004,2024-03-01,AIR,electronics,Japan,NRT,USA,NYC,24.0,accepted
+CUST005,2024-03-05,OFR LCL,general,USA,NYC,Germany,HAM,19.0,accepted
+CUST001,2024-03-10,OFR FCL,textiles,USA,LAX,China,SHA,13.5,rejected
+CUST002,2024-03-15,AIR,dangerous goods,China,SHA,Japan,NRT,26.5,accepted
+CUST003,2024-03-20,OFR LCL,automotive,Germany,HAM,USA,LAX,21.0,accepted
+CUST004,2024-03-25,AIR,perishables,Japan,NRT,Germany,HAM,30.0,rejected
+CUST005,2024-04-01,OFR FCL,temperature-sensitive,USA,NYC,China,SHA,17.5,accepted
+CUST001,2024-04-05,AIR,machinery,USA,LAX,Japan,NRT,23.0,accepted
+CUST002,2024-04-10,OFR LCL,electronics,China,SHA,USA,NYC,20.0,accepted
+CUST003,2024-04-15,OFR FCL,general,Germany,HAM,Japan,NRT,14.5,rejected
+CUST004,2024-04-20,AIR,textiles,Japan,NRT,USA,LAX,27.0,accepted
+CUST005,2024-04-25,OFR LCL,dangerous goods,USA,NYC,Germany,HAM,25.5,accepted
+CUST001,2024-05-01,OFR FCL,automotive,USA,LAX,China,SHA,12.5,rejected
+CUST002,2024-05-05,AIR,perishables,China,SHA,Germany,HAM,29.0,accepted
+CUST003,2024-05-10,OFR LCL,temperature-sensitive,Germany,HAM,USA,NYC,18.0,accepted
+CUST004,2024-05-15,AIR,machinery,Japan,NRT,China,SHA,24.5,accepted
+CUST005,2024-05-20,OFR FCL,electronics,USA,NYC,Japan,NRT,16.0,rejected
+CUST001,2024-05-25,AIR,general,USA,LAX,Germany,HAM,15.0,accepted
+CUST002,2024-06-01,OFR LCL,textiles,China,SHA,USA,LAX,19.5,accepted
+CUST003,2024-06-05,OFR FCL,dangerous goods,Germany,HAM,Japan,NRT,22.5,rejected
+CUST004,2024-06-10,AIR,automotive,Japan,NRT,USA,NYC,28.5,accepted
+CUST005,2024-06-15,OFR LCL,perishables,USA,NYC,China,SHA,21.5,accepted
+CUST001,2024-06-20,OFR FCL,temperature-sensitive,USA,LAX,Germany,HAM,17.0,accepted
+CUST002,2024-06-25,AIR,machinery,China,SHA,Japan,NRT,25.0,accepted
+CUST003,2024-07-01,OFR LCL,electronics,Germany,HAM,USA,LAX,20.5,accepted
+CUST004,2024-07-05,AIR,general,Japan,NRT,China,SHA,26.0,rejected
+CUST005,2024-07-10,OFR FCL,textiles,USA,NYC,Germany,HAM,18.5,accepted
+CUST001,2024-07-15,AIR,dangerous goods,USA,LAX,Japan,NRT,27.5,accepted
+CUST002,2024-07-20,OFR LCL,automotive,China,SHA,USA,NYC,23.0,accepted
+CUST003,2024-07-25,OFR FCL,perishables,Germany,HAM,China,SHA,19.0,rejected
+CUST004,2024-08-01,AIR,temperature-sensitive,Japan,NRT,USA,LAX,31.0,accepted
+CUST005,2024-08-05,OFR LCL,machinery,USA,NYC,Japan,NRT,24.0,accepted
+CUST001,2024-08-10,OFR FCL,electronics,USA,LAX,Germany,HAM,15.5,accepted
+CUST002,2024-08-15,AIR,general,China,SHA,Japan,NRT,28.0,accepted
+CUST003,2024-08-20,OFR LCL,textiles,Germany,HAM,USA,NYC,21.0,accepted
+CUST004,2024-08-25,AIR,dangerous goods,Japan,NRT,China,SHA,29.5,rejected
+CUST005,2024-09-01,OFR FCL,automotive,USA,NYC,Germany,HAM,16.5,accepted
+CUST001,2024-09-05,AIR,perishables,USA,LAX,China,SHA,26.5,accepted
+CUST002,2024-09-10,OFR LCL,temperature-sensitive,China,SHA,Germany,HAM,22.5,accepted
+CUST003,2024-09-15,OFR FCL,machinery,Germany,HAM,Japan,NRT,18.0,rejected
+CUST004,2024-09-20,AIR,electronics,Japan,NRT,USA,LAX,30.0,accepted
+CUST005,2024-09-25,OFR LCL,general,USA,NYC,China,SHA,20.0,accepted
