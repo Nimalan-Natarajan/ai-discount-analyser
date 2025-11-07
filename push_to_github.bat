@@ -49,7 +49,7 @@ echo.
 
 echo Pushing to GitHub...
 echo This may ask for your GitHub credentials...
-git push -u origin main
+git push -u origin main --force
 echo.
 
 if %errorlevel% == 0 (
